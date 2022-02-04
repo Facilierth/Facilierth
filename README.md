@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Facilierth
+- 👀 I’m interested in pandas
+- 🌱 I’m currently learning how to care for pandas
+- 💞️ I’m looking to collaborate on places filled with pandas
+- 📫 How to reach me - just write about pandas.
