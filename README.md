@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Facilierth
-- 👀 I’m interested in pandas
-- 🌱 I’m currently learning how to care for pandas
-- 💞️ I’m looking to collaborate on places filled with pandas
+- 👀 I’m interested in pandas and unicorns
+- 🌱 I’m currently working on game in UE.
+- 💞️ I’m happy to collaborate with anyone passionate about AI or game dev.
 - 📫 How to reach me - just write about pandas.
